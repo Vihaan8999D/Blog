@@ -1,0 +1,56 @@
+head{
+	font: 15px/1.5 Lucida Handwriting;
+	padding:-66;
+	margin:90;
+	background-color:#ff0017;
+	text-align:center; 	   
+}
+body{
+	font: 15px/1.5 Lucida Handwriting;
+	font-size: 20px;
+	padding:-66;
+	margin:90;
+	background-color: blue;
+	text-align:center; 	   
+}
+.no{
+	margin: 20px;
+	border: 20px solid black;
+	border-radius: 10px
+
+}
+.pp{
+	font: 15px/1.5 Lucida Handwriting;
+	height: 25px;
+	width: 100px;
+	margin: 10px;
+	border: 2px solid cyan;
+	border-radius: 5px
+}
+.normal{
+	font: 15px/1.5 Lucida Handwriting;
+	height: 25px;
+	width: 50px;
+	margin: 10px;
+	border: 3px solid cyan;
+	border-radius: 5px
+}
+.float{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	border: 10px solid black;
+	border-radius: 5px;
+
+}
+.float1{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+.not{
+	position: absolute;
+	top: 265px;
+	left: 170px;
+	z-index: -2;
+}

@@ -1,0 +1,14 @@
+html, body {
+  margin: 40px solid;
+  align-content: center;
+  padding: 1px;
+  background-color: brown;
+}
+canvas {
+  display: block;
+}
+h1{
+	text-align: center;
+	font: 15px/1.5 Lucida Handwriting;
+	font-size: 20px;
+}
