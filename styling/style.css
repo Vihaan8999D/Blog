@@ -15,7 +15,7 @@ body{
 }
 .no{
 	margin: 20px;
-	border: 20px solid black;
+	border: 20px solid rgb(97, 39, 39);
 	border-radius: 10px
 
 }
@@ -53,4 +53,11 @@ body{
 	top: 265px;
 	left: 170px;
 	z-index: -2;
+}
+.if{
+	text-align: center;
+}
+.inabout{
+	border: rgba(50, 182, 57, 0.521);
+	border-radius: 5px;
 }

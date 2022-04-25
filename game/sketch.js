@@ -3,8 +3,8 @@
 // 2-10-19
 
 // Random Ball Placement
-var xBall = Math.floor(Math.random() * 300) + 50;
-var yBall = Math.floor(Math.random() * 150) + 90;
+var xBall = Math.floor(Math.random() * 300) + 100;
+var yBall = Math.floor(Math.random() * 150) + 45;
 var xSpeed = (3, 8);
 var ySpeed = (-7, -2);
 var score = 0
